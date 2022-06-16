@@ -2,7 +2,7 @@
 Subject in the 2nd year, 4th semester
 
 <br>
-[Лабораторная 1](https://github.com/efobo/ITMO_Computational_mathematics_Labs#лабораторная-работа-1-системы-линейных-алгебраических-уравнений)
+[sabaka.net](http://sabaka.net)
 
 
 ***
