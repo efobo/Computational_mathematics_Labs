@@ -3,15 +3,15 @@ Subject in the 2nd year, 4th semester
 
 <br>
 
-[Лабораторная 1](https://github.com/efobo/ITMO_Computational_mathematics_Labs/edit/main/README.md#лабораторная-работа-1-системы-линейных-алгебраических-уравнений)
+[Лабораторная 1](https://github.com/efobo/ITMO_Computational_mathematics_Labs#лабораторная-работа-1-системы-линейных-алгебраических-уравнений)
 
-[Лабораторная 2](https://github.com/efobo/ITMO_Computational_mathematics_Labs/edit/main/README.md#лабораторная-работа-2-системы-нелинейных-уравнений)
+[Лабораторная 2](https://github.com/efobo/ITMO_Computational_mathematics_Labs/#лабораторная-работа-2-системы-нелинейных-уравнений)
 
-[Лабораторная 3](https://github.com/efobo/ITMO_Computational_mathematics_Labs/edit/main/README.md#лабораторная-работа-3-численное-интегрирование)
+[Лабораторная 3](https://github.com/efobo/ITMO_Computational_mathematics_Labs/#лабораторная-работа-3-численное-интегрирование)
 
-[Лабораторная 4](https://github.com/efobo/ITMO_Computational_mathematics_Labs/edit/main/README.md#лабораторная-работа-4-интерполяция-и-аппроксимация)
+[Лабораторная 4](https://github.com/efobo/ITMO_Computational_mathematics_Labs/#лабораторная-работа-4-интерполяция-и-аппроксимация)
 
-[Лабораторная 5](https://github.com/efobo/ITMO_Computational_mathematics_Labs/edit/main/README.md#лабораторная-работа-5-численное-дифференцирование-и-задача-коши)
+[Лабораторная 5](https://github.com/efobo/ITMO_Computational_mathematics_Labs/#лабораторная-работа-5-численное-дифференцирование-и-задача-коши)
 
 <br>
 
